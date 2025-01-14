@@ -5,7 +5,7 @@
 - I'm currently learning Java
 - How to reach me:
   - blog : https://igksrb97.tistory.com/
-  - email : https://hangue3823@gmail.com
+  - email : hangue3823@gmail.com
 
 <br>
 <br>
