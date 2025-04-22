@@ -1,6 +1,4 @@
 
-<br>
-<br>
 ## 🌱 HanGyu Lim
 
 - I'm currently learning Java
